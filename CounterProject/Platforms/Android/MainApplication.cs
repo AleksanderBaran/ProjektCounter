@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace Counter
+namespace CounterProject
 {
     [Application]
     public class MainApplication : MauiApplication

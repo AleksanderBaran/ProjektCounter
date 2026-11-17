@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace Counter
+namespace CounterProject
 {
     public class Program
     {

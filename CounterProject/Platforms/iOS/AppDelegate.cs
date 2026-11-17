@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace Counter
+namespace CounterProject
 {
     [Register("AppDelegate")]
     public class AppDelegate : MauiUIApplicationDelegate

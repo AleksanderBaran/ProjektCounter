@@ -1,4 +1,4 @@
-﻿namespace Counter
+﻿namespace CounterProject
 {
     public partial class AppShell : Shell
     {

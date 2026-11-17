@@ -1,6 +1,6 @@
 using Foundation;
 
-namespace Counter
+namespace CounterProject
 {
     [Register("SceneDelegate")]
     public class SceneDelegate : MauiUISceneDelegate
